@@ -1,2 +1,1 @@
-cd
-git remote -v
+# git_test
